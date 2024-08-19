@@ -1,4 +1,4 @@
-[![MasterHead](mypic.png)
+[![MasterHead](mypic.png?width=300&height=200)]
 <h1 align="center">Hi 👋, I'm Bedada</h1>
 <h3 align="center">A forward thinking Full stack Software Engineer with over 5 years of commercial experience</h3>
 <img  align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif"/>
