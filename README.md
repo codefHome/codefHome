@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Bedada</h1>
 <h3 align="center">A forward thinking Full stack Software Engineer with over 5 years of commercial experience</h3>
-<img  align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codefhome&label=Profile%20views&color=0e75b6&style=flat" alt="codefhome" /> </p>
 
 
