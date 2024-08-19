@@ -1,4 +1,4 @@
-<div style={{ display: 'flex', justifyContent: 'space-between' }}> ![MasterHead](mypic.png)  <span>**bedada6@gmail.com**,  [https://bedada-portfolio.netlify.app/](https://bedada-portfolio.netlify.app/)</div>  
+<div style={{ display: 'flex', justifyContent: 'space-between' }}> ![MasterHead](mypic.png)  <span>**bedada6@gmail.com**,  [https://bedada-portfolio.netlify.app/](https://bedada-portfolio.netlify.app/)</span> </div>  
 <h1 align="center">Hi 👋, I'm Bedada</h1>
 <h3 align="center">A forward thinking Full stack Software Engineer with over 5 years of commercial experience</h3>
 <img  align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif"/>
