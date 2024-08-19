@@ -1,5 +1,4 @@
 
-<img  src="mypic.png" />
 
 <h1 align="center">Hi 👋, I'm Bedada</h1>
 <h3 align="center">A forward thinking Full stack Software Engineer with over 5 years of commercial experience</h3>
