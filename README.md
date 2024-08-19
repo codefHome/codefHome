@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" type="text/css" href="pro.css">
+</head>
 <img class="circle-image" src="mypic.png" />
 <span class="right-align">**bedada6@gmail.com**,  https://bedada-portfolio.netlify.app/(https://bedada-portfolio.netlify.app/)</span> 
 <h1 align="center">Hi 👋, I'm Bedada</h1>
