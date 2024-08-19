@@ -1,6 +1,5 @@
- <div style={{ borderRadius: '50%', width: '100px', height: '100px' }}>
-  <img src="mypic.png" />
-</div> <span>**bedada6@gmail.com**,  https://bedada-portfolio.netlify.app/(https://bedada-portfolio.netlify.app/)</span>  
+<img class="circle-image" src="mypic.png" />
+<span class="right-align">**bedada6@gmail.com**,  https://bedada-portfolio.netlify.app/(https://bedada-portfolio.netlify.app/)</span> 
 <h1 align="center">Hi 👋, I'm Bedada</h1>
 <h3 align="center">A forward thinking Full stack Software Engineer with over 5 years of commercial experience</h3>
 <img  align="right" alt="Coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif"/>
