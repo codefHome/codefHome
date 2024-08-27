@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Web3 with Solidity**
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/codefHome](https://github.com/codefHome)
-
 - 💬 Ask me about **React.js, Next.js, Node.js, Nest.js, TailwindCSS, Redux Toolkit**
 
 - 📫 How to reach me **bedada6@gmail.com**
